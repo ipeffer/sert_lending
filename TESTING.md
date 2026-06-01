@@ -76,7 +76,7 @@ curl http://localhost:8000/health
 На сервере с Docker:
 
 ```bash
-git clone <ваш-репозиторий> k8-certificates
+git clone https://github.com/ipeffer/sert_lending.git
 cd sert_lending
 cp .env.test .env
 ```
