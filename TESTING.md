@@ -20,7 +20,7 @@
 ### Команды
 
 ```bash
-cd k8-certificates
+cd sert_lending
 cp .env.test .env
 docker compose up -d --build
 ```
@@ -77,7 +77,7 @@ curl http://localhost:8000/health
 
 ```bash
 git clone <ваш-репозиторий> k8-certificates
-cd k8-certificates
+cd sert_lending
 cp .env.test .env
 ```
 

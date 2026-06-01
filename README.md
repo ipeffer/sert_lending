@@ -2,9 +2,13 @@
 
 Демо-сервис: пул номеров, резерв при заказе, оплата (mock / ЮKassa), PDF на email, админка.
 
+Репозиторий: https://github.com/ipeffer/sert_lending
+
 ## Тестовая MVP-сборка (отправить тестировщику)
 
 ```bash
+git clone https://github.com/ipeffer/sert_lending.git
+cd sert_lending
 make test-up
 ```
 
